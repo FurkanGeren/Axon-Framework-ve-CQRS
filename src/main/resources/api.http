@@ -1,0 +1,25 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+###
+
+
+POST http://localhost:8080/v1/api/order/create
+
+
+###
+
+PUT http://localhost:8080/v1/api/order/update/fea786c0-5c02-40d1-a82d-ea0a31e4ac81/20
+
+
+
+####
+
+PUT http://localhost:8080/v1/api/order/update/fea786c0-5c02-40d1-a82d-ea0a31e4ac81/100
+
+
+####
+
+
+GET http://localhost:8080/v1/api/order
